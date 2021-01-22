@@ -1,0 +1,19 @@
+Jayse, 
+
+I was hoping this would be a great opportunity to help you and to be able to get some more experience in the field doing what I love to do.
+I was making plans to find a way to move to Greenville, so I wouldn't have to drive so far.
+I already quit my job, and waited a week to hear from you. 
+
+I know the test didn’t go super well since it's been a while since I reviewed, however, I am
+a very quick learner and this is what I love to do every day.
+I'm willing to take the test again and show you what I can do.
+
+~Nathaniel
+
+
+
+
+make in minecraft:
+- put a comparator next to a collection chest of an automatic collector (example: iron)
+then based on how much iron is in the chest, the comparator will put out a signal and
+if that signal is strong enough, it will power a minecart to take to the automatic sorter.
